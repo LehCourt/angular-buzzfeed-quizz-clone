@@ -1,55 +1,55 @@
 {
-  "title":"Você seria um heroi ou vilão ?",
+  "title":"Você iria ser redimido em hazbin hotel?",
   "questions":[
     {
       "id":1,
-      "question": "Qual super poder você escolheria ?",
+      "question": "Vox te oferece um cargo com fama alta oque você escolhe?",
       "options":[
-        {"id": 1, "name":"Raios-Lasers", "alias":"A"},
-        {"id": 2, "name":"Voar", "alias":"B"},
-        {"id": 3, "name":"Explodir coisas", "alias":"A"},
-        {"id": 4, "name":"Curar feridas", "alias":"B"},
-        {"id": 5, "name":"Soltar fogo pelas mãos", "alias":"A"}
+        {"id": 1, "name":"aceito", "alias":"A"},
+        {"id": 2, "name":"Recuso", "alias":"B"},
+        {"id": 3, "name":"Trabalho para outro Overlord", "alias":"A"},
+        {"id": 4, "name":"Não me envolvo com pecadores", "alias":"B"},
+        {"id": 5, "name":"Trabalho para o valentino", "alias":"A"}
       ]
     },
     {
       "id":2,
-      "question": "Quem você salvaria primeiro ?",
+      "question": "Oque voce consome?",
       "options":[
-        {"id": 1, "name":"Crianças", "alias":"A"},
-        {"id": 2, "name":"Idosos", "alias":"A"},
-        {"id": 3, "name":"Não saberia escolher", "alias":"B"}
+        {"id": 1, "name":"Alcool", "alias":"A"},
+        {"id": 2, "name":"Drogas", "alias":"A"},
+        {"id": 3, "name":"Doces", "alias":"B"}
       ]
     },
     {
       "id":3,
-      "question": "Qual a sua maior preocupação ao enfretar outro super ser ?",
+      "question": "Qual a sua maior preocupação ao cair no inferno?",
       "options":[
-        {"id": 1, "name":"Não destruir prédios", "alias":"B"},
-        {"id": 2, "name":"Socar a cara do inimigo", "alias":"A"},
-        {"id": 3, "name":"Não sujar meu traje", "alias":"A"},
-        {"id": 4, "name":"Não deixar ninguém se ferir", "alias":"B"}
+        {"id": 1, "name":"Ajudar outras almas", "alias":"B"},
+        {"id": 2, "name":"Devorar outras almas", "alias":"A"},
+        {"id": 3, "name":"Subir meu poder", "alias":"A"},
+        {"id": 4, "name":"evitar o exterminio", "alias":"B"}
       ]
     },
     {
       "id":4,
       "question": "Qual o seu maior foco ?",
       "options":[
-        {"id": 1, "name":"Ficar rico com poderes", "alias":"A"},
-        {"id": 2, "name":"Salvar a cidade", "alias":"B"}
+        {"id": 1, "name":"Conseguir poder", "alias":"A"},
+        {"id": 2, "name":"Salvar almas", "alias":"B"}
       ]
     },
     {
       "id":5,
-      "question": "Qual o seu apelido de super ser ?",
+      "question": "Você aceita um acordo com outro demonio?",
       "options":[
-        {"id": 1, "name":"O Terrivel", "alias":"A"},
-        {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
+        {"id": 1, "name":"Sim", "alias":"A"},
+        {"id": 2, "name":"Não", "alias":"B"}
       ]
     }
   ],
   "results":{
-    "A": "Você muito provavelmente seria um super vilão!",
-    "B": "Você muito provavelmente seria um super Herói!"
+    "A": "Você seria um pecador imundo",
+    "B": "Você alcancaria a redenção"
   }
 }
